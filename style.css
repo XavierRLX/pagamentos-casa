@@ -11,6 +11,11 @@ html{
 .texto-alerta{
   display: none;
 }
+input {
+  width: 50px;
+  text-align: center;
+  border-style: none;
+}
 #fundo-um{
   background-color: #1518d3;
   color: #ffffff;
